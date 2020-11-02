@@ -9,6 +9,7 @@ My name is Keith and I'm a casual software developer. I study computer science a
   - I'm primarily a back-end developer, so these projects are where my skills shine!
   - If you think you can teach me something cool about UI design or UI experience, please reach out!
 - 📫 How to reach me: Check out my LinkedIn or send me an email!
+  - All emails asking me to star a repo or other similar spam-ish emails will be ignored.
 - ⚡ Fun fact: The Python Language got it's name from the British comedy troupe Monty Python!
 
 ### Check out some of my projects!
