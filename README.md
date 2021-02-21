@@ -34,3 +34,12 @@ My name is Keith and I'm a casual software developer. I study computer science a
   This project is still a work in progress, but aims to create a python library of modules to use in game prototyping, allowing creators to create inventory systems, simple maps, a rudimentary gameplay routine, etcetera. The end goal of this project is to have developing a small simple game be easy enough that a Python newbie could create something they could be proud of in a reasonable number of lines of code. A lot of the tools don't depend on packages such as the `curses` package, but instead can be used as the backend to a PyGame application.
   
 </details>
+<details>
+  <summary>Logic</summary>
+  
+  <br />
+
+  You can find this project [here](https://github.com/keithallatt/Logic/blob/main/README.md)!
+
+  This project is all about programming logical structures. Currently focusing on Propositional Logic, also known as Zero-th order logic.
+</details>
