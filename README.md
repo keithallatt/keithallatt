@@ -15,6 +15,17 @@ My name is Keith and I'm a casual software developer. I study computer science a
 ### Check out some of my projects!
 
 <details>
+  <summary>CustomIDE</summary>
+  
+  <br />
+
+  You can find this project [here](https://github.com/keithallatt/CustomIDE/blob/main/README.md)!
+
+  This project is all about the process of developing an in-house, fully custom IDE for Python! The goal of this project is not to switch daily-drivers to a new IDE, but to explore how IDE's are put together, from the stylistic choices, to the integrated tools and how each piece fits together. 
+  
+  A benefit to this project is doing it all in Python. The IDE is written in Python, using the PyQt5 module, making reading the code easier while still accomplishing a lot. In the future I'd like to try developing a plugin that allows for Java applications to be run also.
+</details>
+<details>
   <summary>JavaTeX</summary>
   
   <br />
